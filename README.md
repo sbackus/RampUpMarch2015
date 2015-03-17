@@ -1,2 +1,3 @@
 # RampUpMarch2015
-RampUp
+This is my RampUp portfolio!
+Check out my code!
